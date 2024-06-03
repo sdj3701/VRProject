@@ -67,7 +67,7 @@ sysinfo.txt
 # ignore
 example.dll
 Oculus/Library/
-Assets/Oculus/
+Oculus/
 
 
 # Crashlytics generated file
