@@ -1,7 +1,10 @@
+# Created by https://www.toptal.com/developers/gitignore/api/unity
+# Edit at https://www.toptal.com/developers/gitignore?templates=unity
+
+### Unity ###
 # This .gitignore file should be placed at the root of your Unity project directory
 #
 # Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
-#
 /[Ll]ibrary/
 /[Tt]emp/
 /[Oo]bj/
@@ -61,15 +64,6 @@ sysinfo.txt
 *.unitypackage
 *.app
 
-# 기타 무시할 파일
-example.dll
-Oculus/.vs/
-Oculus/Library/
-Oculus/Logs/
-Oculus/obj/
-Oculus/UserSettings/
-
-
 # Crashlytics generated file
 crashlytics-build.properties
 
@@ -80,3 +74,4 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 
+# End of https://www.toptal.com/developers/gitignore/api/unity
