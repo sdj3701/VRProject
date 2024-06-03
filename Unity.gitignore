@@ -67,6 +67,7 @@ sysinfo.txt
 # ignore
 example.dll
 Oculus/Library/
+Assets/Oculus/
 
 # Crashlytics generated file
 crashlytics-build.properties
