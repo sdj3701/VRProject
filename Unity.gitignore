@@ -64,6 +64,10 @@ sysinfo.txt
 *.unitypackage
 *.app
 
+# ignore
+example.dll
+Oculus/Library/
+
 # Crashlytics generated file
 crashlytics-build.properties
 
