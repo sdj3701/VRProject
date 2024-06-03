@@ -71,7 +71,7 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 Oculus/.vs/
-Oculus/Libray/
+Oculus/Library/
 Oculus/Logs/
 Oculus/obj/
 Oculus/UserSettings/
