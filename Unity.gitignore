@@ -61,6 +61,15 @@ sysinfo.txt
 *.unitypackage
 *.app
 
+# 기타 무시할 파일
+example.dll
+Oculus/.vs
+Oculus/Library
+Oculus/Logs
+Oculus/obj
+Oculus/UserSettings
+
+
 # Crashlytics generated file
 crashlytics-build.properties
 
@@ -70,8 +79,4 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
-Oculus/.vs
-Oculus/Library
-Oculus/Logs
-Oculus/obj
-Oculus/UserSettings
+
