@@ -63,11 +63,11 @@ sysinfo.txt
 
 # 기타 무시할 파일
 example.dll
-Oculus/.vs
-Oculus/Library
-Oculus/Logs
-Oculus/obj
-Oculus/UserSettings
+Oculus/.vs/
+Oculus/Library/
+Oculus/Logs/
+Oculus/obj/
+Oculus/UserSettings/
 
 
 # Crashlytics generated file
