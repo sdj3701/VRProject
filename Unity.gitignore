@@ -12,6 +12,7 @@
 [Bb]uilds/
 [Ll]ogs/
 [Uu]ser[Ss]ettings/
+[Aa]sset/Oculus/
 
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
@@ -67,7 +68,7 @@ sysinfo.txt
 # ignore
 example.dll
 Oculus/Library/
-Assets/Oculus/
+
 
 # Crashlytics generated file
 crashlytics-build.properties
